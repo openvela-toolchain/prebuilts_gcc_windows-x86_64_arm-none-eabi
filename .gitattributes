@@ -1,0 +1,2 @@
+bin/*gdb filter=lfs diff=lfs merge=lfs -text
+bin/arm-none-eabi-gdb.exe filter=lfs diff=lfs merge=lfs -text
